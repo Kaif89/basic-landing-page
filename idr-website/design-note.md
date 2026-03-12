@@ -1,0 +1,3 @@
+# Design Note: Institute of Digital Risk (IDR) Brand Identity
+
+The IDR logo features an isometric split-cube icon, symbolizing a secure, resilient core protected by an outer shell—representing structure, capability, and risk management in a complex digital landscape. The vibrant primary orange (#FF5A00) highlights innovation, energy, and the proactive nature of IDR's training programs, while the contrasting blacks and dark grays convey authority, stability, and high-consequence environments. A clean, heavy sans-serif typography is utilized in the full logo variant to maintain a highly legible, modern tech/education aesthetic that scales effortlessly across digital platforms.
